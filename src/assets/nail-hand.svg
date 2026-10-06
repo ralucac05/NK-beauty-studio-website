@@ -1,0 +1,87 @@
+<svg class="nk-hand" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated illustration: a brush painting a nail with nude polish">
+  <defs>
+    <linearGradient id="nkPolish" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D59C90"/><stop offset="1" stop-color="#B26F66"/></linearGradient>
+    <linearGradient id="nkGlass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C98C81"/><stop offset=".45" stop-color="#E2B1A6"/><stop offset="1" stop-color="#B9776D"/></linearGradient>
+    <linearGradient id="nkSleeve" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4E2DC"/><stop offset=".55" stop-color="#F0D8D0"/><stop offset="1" stop-color="#E6C8BE"/></linearGradient>
+    <linearGradient id="nkCap" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B302A"/><stop offset=".5" stop-color="#5A4A40"/><stop offset="1" stop-color="#2E2520"/></linearGradient>
+    <radialGradient id="nkFadeGrad" gradientUnits="userSpaceOnUse" cx="210" cy="210" r="210"><stop offset=".86" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <mask id="nkEdgeFade" maskUnits="userSpaceOnUse" x="0" y="0" width="420" height="420"><rect width="420" height="420" fill="url(#nkFadeGrad)"/></mask>
+    <filter id="nkSoft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <circle class="nk-halo" cx="210" cy="210" r="176" fill="#F6EEE7"/>
+  <circle cx="210" cy="210" r="176" fill="none" stroke="#E7D8CB" stroke-width="1"/>
+  <g mask="url(#nkEdgeFade)">
+    <g transform="translate(10 22) scale(0.8) rotate(-38 205 240)" class="nk-hand-body">
+      <g transform="translate(10 24)" filter="url(#nkSoft)" opacity=".14"><path d="M131 262 C128 292 138 320 156 342 C168 356 174 368 175 386 L249 386 C250 370 256 358 266 348 C278 337 286 327 281 320 C266 302 258 276 252 244 L138 246 Z" fill="#9C7460"/></g>
+      <g transform="translate(268 336) rotate(58)">
+<path d="M-16.0 26 C-16.0 -10 -13.0 -62.0 -12.0 -92.0 A12.0 12.0 0 0 1 12.0 -92.0 C13.0 -62.0 16.0 -10 16.0 26 Z" fill="#EFD3C0"/>
+<path d="M11.0 -6 C11.0 -30 8.0 -60.0 7.5 -82.0" stroke="#DDB59E" stroke-width="5" stroke-opacity=".3" fill="none" stroke-linecap="round"/>
+<path d="M-16.0 -2 C-16.0 -10 -13.0 -62.0 -12.0 -92.0 A12.0 12.0 0 0 1 12.0 -92.0 C13.0 -62.0 16.0 -10 16.0 -2" fill="none" stroke="#D7AE96" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M-11.0 -43.7 q11.0 3 22.0 0" stroke="#D7AE96" stroke-width="1" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M-10.0 -72.8 q10.0 2.5 20.0 0" stroke="#D7AE96" stroke-width=".9" fill="none" stroke-linecap="round" opacity=".6"/>
+<path d="M-8.6 -73.0 C-8.6 -89.0 -7.6 -96.5 0 -101.5 C7.6 -96.5 8.6 -89.0 8.6 -73.0 Q0 -69.0 -8.6 -73.0 Z" fill="url(#nkPolish)"/>
+<path d="M-4.3 -79.0 C-4.3 -89.0 -2.2 -89.5 0 -95.5" stroke="#fff" stroke-opacity=".6" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g>
+<path d="M131 262 C128 292 138 320 156 342 C168 356 174 368 175 386 L249 386 C250 370 256 358 266 348 C278 337 286 327 281 320 C266 302 258 276 252 244 L138 246 Z" fill="#EFD3C0"/><path d="M131 262 C128 292 138 320 156 342 C168 356 174 368 175 386" stroke="#D7AE96" stroke-width="1.1" fill="none" stroke-linecap="round"/><path d="M249 386 C250 370 256 358 264 350 M281 324 C268 306 260 282 255 262" stroke="#D7AE96" stroke-width="1.1" fill="none" stroke-linecap="round"/><path d="M160 378 C192 388 228 388 262 376 C272 420 282 480 292 560 L118 560 C128 480 146 420 160 378 Z" fill="url(#nkSleeve)"/><path d="M160 378 C192 388 228 388 262 376" stroke="#E2C3B9" stroke-width="1.2" fill="none"/><path d="M157 396 C192 406 230 406 266 394" stroke="#E2C3B9" stroke-width="1" fill="none" opacity=".8"/><path d="M162 382 C192 391 228 391 260 380" stroke="#B58D7A" stroke-width="5" stroke-opacity=".12" fill="none"/>
+<g transform="translate(146 262) rotate(-13)">
+<path d="M-12.0 26 C-12.0 -10 -10.0 -57.0 -9.0 -87.0 A9.0 9.0 0 0 1 9.0 -87.0 C10.0 -57.0 12.0 -10 12.0 26 Z" fill="#EFD3C0"/>
+<path d="M7.0 -6 C7.0 -30 5.0 -52.0 4.5 -74.0" stroke="#DDB59E" stroke-width="5" stroke-opacity=".3" fill="none" stroke-linecap="round"/>
+<path d="M-12.0 -2 C-12.0 -10 -10.0 -57.0 -9.0 -87.0 A9.0 9.0 0 0 1 9.0 -87.0 C10.0 -57.0 12.0 -10 12.0 -2" fill="none" stroke="#D7AE96" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M-7.0 -40.3 q7.0 3 14.0 0" stroke="#D7AE96" stroke-width="1" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M-6.0 -67.2 q6.0 2.5 12.0 0" stroke="#D7AE96" stroke-width=".9" fill="none" stroke-linecap="round" opacity=".6"/>
+<path d="M-6.5 -65.0 C-6.5 -81.0 -5.5 -88.5 0 -93.5 C5.5 -88.5 6.5 -81.0 6.5 -65.0 Q0 -61.0 -6.5 -65.0 Z" fill="url(#nkPolish)"/>
+<path d="M-3.2 -71.0 C-3.2 -81.0 -1.6 -81.5 0 -87.5" stroke="#fff" stroke-opacity=".6" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g>
+<g transform="translate(175 250) rotate(-5)">
+<path d="M-13.0 26 C-13.0 -10 -11.0 -90.0 -10.0 -120.0 A10.0 10.0 0 0 1 10.0 -120.0 C11.0 -90.0 13.0 -10 13.0 26 Z" fill="#EFD3C0"/>
+<path d="M8.0 -6 C8.0 -30 6.0 -86.0 5.5 -108.0" stroke="#DDB59E" stroke-width="5" stroke-opacity=".3" fill="none" stroke-linecap="round"/>
+<path d="M-13.0 -2 C-13.0 -10 -11.0 -90.0 -10.0 -120.0 A10.0 10.0 0 0 1 10.0 -120.0 C11.0 -90.0 13.0 -10 13.0 -2" fill="none" stroke="#D7AE96" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M-8.0 -54.6 q8.0 3 16.0 0" stroke="#D7AE96" stroke-width="1" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M-7.0 -91.0 q7.0 2.5 14.0 0" stroke="#D7AE96" stroke-width=".9" fill="none" stroke-linecap="round" opacity=".6"/>
+<path d="M-7.2 -99.0 C-7.2 -115.0 -6.2 -122.5 0 -127.5 C6.2 -122.5 7.2 -115.0 7.2 -99.0 Q0 -95.0 -7.2 -99.0 Z" fill="url(#nkPolish)"/>
+<path d="M-3.6 -105.0 C-3.6 -115.0 -1.8 -115.5 0 -121.5" stroke="#fff" stroke-opacity=".6" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g>
+<g transform="translate(206 246) rotate(0)">
+<path d="M-13.5 26 C-13.5 -10 -11.5 -105.5 -10.5 -135.5 A10.5 10.5 0 0 1 10.5 -135.5 C11.5 -105.5 13.5 -10 13.5 26 Z" fill="#EFD3C0"/>
+<path d="M8.5 -6 C8.5 -30 6.5 -102.0 6.0 -124.0" stroke="#DDB59E" stroke-width="5" stroke-opacity=".3" fill="none" stroke-linecap="round"/>
+<path d="M-13.5 -2 C-13.5 -10 -11.5 -105.5 -10.5 -135.5 A10.5 10.5 0 0 1 10.5 -135.5 C11.5 -105.5 13.5 -10 13.5 -2" fill="none" stroke="#D7AE96" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M-8.5 -61.3 q8.5 3 17.0 0" stroke="#D7AE96" stroke-width="1" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M-7.5 -102.2 q7.5 2.5 15.0 0" stroke="#D7AE96" stroke-width=".9" fill="none" stroke-linecap="round" opacity=".6"/>
+<path d="M-7.6 -115.0 C-7.6 -131.0 -6.6 -138.5 0 -143.5 C6.6 -138.5 7.6 -131.0 7.6 -115.0 Q0 -111.0 -7.6 -115.0 Z" fill="url(#nkPolish)"/>
+<path d="M-3.8 -121.0 C-3.8 -131.0 -1.9 -131.5 0 -137.5" stroke="#fff" stroke-opacity=".6" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g>
+<g transform="translate(236 252) rotate(5)">
+<path d="M-13.5 26 C-13.5 -10 -11.5 -91.5 -10.5 -121.5 A10.5 10.5 0 0 1 10.5 -121.5 C11.5 -91.5 13.5 -10 13.5 26 Z" fill="#EFD3C0"/>
+<path d="M8.5 -6 C8.5 -30 6.5 -88.0 6.0 -110.0" stroke="#DDB59E" stroke-width="5" stroke-opacity=".3" fill="none" stroke-linecap="round"/>
+<path d="M-13.5 -2 C-13.5 -10 -11.5 -91.5 -10.5 -121.5 A10.5 10.5 0 0 1 10.5 -121.5 C11.5 -91.5 13.5 -10 13.5 -2" fill="none" stroke="#D7AE96" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M-8.5 -55.4 q8.5 3 17.0 0" stroke="#D7AE96" stroke-width="1" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M-7.5 -92.4 q7.5 2.5 15.0 0" stroke="#D7AE96" stroke-width=".9" fill="none" stroke-linecap="round" opacity=".6"/>
+<clipPath id="nkNailClip"><path d="M-7.6 -101.0 C-7.6 -117.0 -6.6 -124.5 0 -129.5 C6.6 -124.5 7.6 -117.0 7.6 -101.0 Q0 -97.0 -7.6 -101.0 Z"/></clipPath>
+<path d="M-7.6 -101.0 C-7.6 -117.0 -6.6 -124.5 0 -129.5 C6.6 -124.5 7.6 -117.0 7.6 -101.0 Q0 -97.0 -7.6 -101.0 Z" fill="#F6E6DD" stroke="#E2C2B1" stroke-width=".8"/>
+<g clip-path="url(#nkNailClip)"><g class="nk-paintwrap">
+<rect class="nk-paint nk-p1" x="-3.3" y="-131.5" width="6.5" height="36.5" fill="url(#nkPolish)"/>
+<rect class="nk-paint nk-p2" x="-9.0" y="-131.5" width="6.5" height="36.5" fill="url(#nkPolish)"/>
+<rect class="nk-paint nk-p3" x="2.5" y="-131.5" width="6.5" height="36.5" fill="url(#nkPolish)"/>
+<path class="nk-gloss" d="M-3.8 -107.0 C-3.8 -117.0 -1.9 -117.5 0 -123.5" stroke="#fff" stroke-opacity=".6" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g></g>
+</g>
+    </g>
+  </g>
+  <g class="nk-bottle" transform="translate(52 306)">
+  <ellipse cx="26" cy="92" rx="34" ry="5" fill="#E6D4C6" opacity=".7"/>
+  <rect x="17" y="3" width="18" height="14" rx="2" fill="#E9D5CB" opacity=".95"/>
+  <rect x="0" y="14" width="52" height="78" rx="11" fill="url(#nkGlass)"/>
+  <rect x="7" y="22" width="6" height="56" rx="3" fill="#fff" opacity=".35"/>
+  <rect x="6" y="50" width="40" height="16" rx="2" fill="#FBF6F2" opacity=".85"/>
+  <text x="26" y="61.5" text-anchor="middle" font-family="Georgia, serif" font-size="8.5" letter-spacing="1.5" fill="#8A6D5B">NK</text>
+</g>
+  <g class="nk-brush">
+    <path d="M-4.5 -17 L4.5 -17 L3.6 -4 Q0 3 -3.6 -4 Z" fill="#B87268"/>
+    <rect x="-1.6" y="-34" width="3.2" height="18" rx="1" fill="#8E7A6E"/>
+    <rect x="-8.5" y="-96" width="17" height="64" rx="3.5" fill="url(#nkCap)"/>
+    <rect x="-8.5" y="-40" width="17" height="5" fill="#C9A77F"/>
+    <path d="M-4 -90 L-4 -46" stroke="#fff" stroke-opacity=".18" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(157.9 113.6)"><path class="nk-sparkle" d="M0 -9 L2 -2 L9 0 L2 2 L0 9 L-2 2 L-9 0 L-2 -2 Z" fill="#C9A77F"/></g>
+  <g transform="translate(127.9 99.6)"><path class="nk-sparkle nk-sparkle2" d="M0 -5 L1.2 -1.2 L5 0 L1.2 1.2 L0 5 L-1.2 1.2 L-5 0 L-1.2 -1.2 Z" fill="#C9A77F"/></g>
+</svg>
